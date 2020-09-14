@@ -1,6 +1,7 @@
 <template>
   <div class="download">
-    <h1>ダウンロードページ</h1>
+    <h2>ダウンロード</h2>
+      <p>Androidバージョン</p>
       <div style="margin:20px 15px;">
         <ul style="list-style: none;">
         <li><a href="../downloads/app-hiltonUF2200.apk">HILTON 検品チェック</a></li> 

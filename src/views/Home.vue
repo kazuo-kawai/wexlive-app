@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.jpg">
-    <HelloWorld msg="Welcome to スマホアプリダウンロードページ"/>
+    <img alt="Vue logo" src="../assets/logo.png">
+    <HelloWorld msg="Welcome to スマホアプリダウンロードサイト"/>
   </div>
 </template>
 
