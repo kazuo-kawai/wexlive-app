@@ -1,4 +1,4 @@
-# wex-sample
+# wexlive-app
 
 ## Project setup
 ```
