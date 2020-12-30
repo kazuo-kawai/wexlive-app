@@ -25,11 +25,11 @@
     &-text {
         color: red;
         text-align: center;
-        font-size: 20px;
+        font-size: 16px;
         font-weight: bold;
 
         @include display_pc {
-            font-size: 40px !important;
+            font-size: 28px !important;
         }
     }
 }
