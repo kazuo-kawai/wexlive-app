@@ -18,6 +18,7 @@
           <li v-if="userKey == 'cg'"><a href="../downloads/app-centricUF2200.apk">ハイアットセントリック銀座東京</a></li> 
           <li v-if="userKey == 'ht'"><a href="../downloads/app-hoshinoyaUF2200.apk">星のや東京</a></li> 
           <li v-if="userKey == 'wh'"><a href="../downloads/app-WHotelUF2200.apk">Ｗホテル</a></li> 
+          <li v-if="userKey == 'rk'"><a href="../downloads/app-RokuKyotoUF2200e.apk">ROKU KYOTO</a></li> 
         </ul> 
       </div>
     <div class="copy">Copyright &copy; SHIN-NIPPON WEX CO.,LTD All Rights Reserved.</div>
