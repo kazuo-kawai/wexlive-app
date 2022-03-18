@@ -1,6 +1,10 @@
 <template>
   <div class="download">
     <h2>ダウンロード</h2>
+      <div style="margin:20px 15px;">
+          Android : <a href="../downloads/app-staffhotel.apk">app-staffhotel.apk</a>
+      </div>
+<!--
       <p>Android版</p>
       <span>ユーザー鍵を入力<br/></span>
       <input type="text" class="userkey" name="userKey" @input="setUserKey"><br/>
@@ -21,6 +25,7 @@
           <li v-if="userKey == 'rk'"><a href="../downloads/app-RokuKyotoUF2200e.apk">ROKU KYOTO</a></li> 
         </ul> 
       </div>
+-->
     <div class="copy">Copyright &copy; SHIN-NIPPON WEX CO.,LTD All Rights Reserved.</div>
   </div>
 </template>
